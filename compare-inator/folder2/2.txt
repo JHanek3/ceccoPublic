@@ -1,0 +1,1 @@
+I should only be in folder2 and return False for folder1
