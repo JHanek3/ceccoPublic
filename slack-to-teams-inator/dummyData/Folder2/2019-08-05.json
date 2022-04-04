@@ -1,0 +1,9 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1565009894.000200",
+        "user": "DEF",
+        "text": "<@DEF> has joined the channel"
+    }
+]

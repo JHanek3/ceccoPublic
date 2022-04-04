@@ -1,0 +1,37 @@
+{
+  "name": "swap",
+  "version": "1.0.0",
+  "description": "Slack to Teams PoC",
+  "main": "main.js",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "babel-jest": "^27.4.6",
+    "jest": "^27.4.7",
+    "regenerator-runtime": "^0.13.9",
+    "ts-jest": "^27.1.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server/main.js"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "author": "Jon",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^1.4.0",
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "nodejs": "^0.0.0",
+    "open": "^8.4.0",
+    "winston": "^3.4.0",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}

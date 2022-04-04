@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1554307063.000200",
+        "user": "ABC",
+        "text": "<@ABC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1554307063.000300",
+        "user": "123",
+        "text": "I am your father",
+        "purpose": ""
+    },
+    {
+        "type": "message",
+        "text": "Charmander is the best starter pokemon.",
+        "files": [
+            {
+                "id": "FHJG03A48",
+                "created": 1554307118,
+                "timestamp": 1554307118,
+                "name": "char.jpg",
+                "title": "char.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "117"
+            }
+        ],
+        "ts": "1554307118.001200"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1564546514.000200",
+        "user": "69",
+        "text": "<@69> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1564546514.000800",
+        "user": "70",
+        "text": "<@70> has joined the channel",
+        "inviter": "69"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLX7VFN6R",
+                "created": 1564546690,
+                "timestamp": 1564546690,
+                "name": "cat.jpg",
+                "title": "cat.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "117"
+            },
+            {
+                "id": "FLKQRNV3L",
+                "created": 1564546690,
+                "timestamp": 1564546690,
+                "name": "dog.jpg",
+                "title": "dog.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "117"
+            }
+        ],
+        "ts": "1564546690.000900"
+    },
+    {
+        "type": "message",
+        "text": "All dogs are top dogs",
+        "user": "123",
+        "ts": "1564546964.003600"
+    }
+]
